@@ -1,13 +1,13 @@
 # YOLOv7 Emotion Detection Project
 ## Overview
 This project employs YOLOv7 for emotion detection, specifically focusing on accurately identifying six different emotions: anger, happy, disgust, sad, fear, and surprise. The model has been trained on a meticulously curated custom dataset, with annotations generated using Roboflow. The goal is to develop a robust system capable of recognizing nuanced facial expressions, making it applicable in various contexts, such as human-computer interaction and sentiment analysis.
-## Table of Contents
-1.Overview
-2.Dataset
-3.Annotation
-4.YOLOv7 Model
-5.Methodology
-6.Results
+## Contents
+1. ### Overview
+2. ### Dataset
+3. ### Annotation
+4. ### YOLOv7 Model
+5. ### Methodology
+6. ### Results
 ## Dataset
 The dataset used in this project is a collection of images capturing diverse facial expressions corresponding to six emotions. Each image is meticulously labeled with the appropriate emotion—anger, happy, disgust, sad, fear, or surprise. This dataset, is a crucial foundation for training the YOLOv7 model to accurately identify and classify emotions in real-world scenarios.
 ## Annotation
